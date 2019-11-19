@@ -16,7 +16,7 @@
     "thanos"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Metallicbai/thanos-webpack-plugin/issues"
   },
